@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+    <PreferenceCategory android:title="@string/bn_customaization">
+
+        <Preference
+            android:key="@string/pfProfile"
+            android:summary="@string/bn_profile_sum"
+            android:title="@string/bn_profile" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/pfHotKey"
+            android:summaryOff="@string/bn_off"
+            android:summaryOn="@string/bn_hot_key_sum_on"
+            android:title="@string/bn_hot_key" />
+
+        <ListPreference
+            android:defaultValue="1"
+            android:dependency="@string/pfHotKey"
+            android:entries="@array/hotKeyEntriesBn"
+            android:entryValues="@array/hotKeyValues"
+            android:key="@string/pfHotKeySensivity"
+            android:title="@string/bn_hot_key_sensivity" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/pfShake"
+            android:summaryOff="@string/bn_off"
+            android:summaryOn="@string/bn_shake_sum_on"
+            android:title="@string/bn_shake" />
+
+
+        <ListPreference
+            android:defaultValue="14"
+            android:dependency="@string/pfShake"
+            android:entries="@array/shakeEntriesBn"
+            android:entryValues="@array/shakeValues"
+            android:key="@string/pfShakeType"
+            android:title="@string/bn_shake_mode" />
+
+        <Preference
+            android:key="@string/pfResetAll"
+            android:summary="@string/bn_reset_all_sum"
+            android:title="@string/bn_reset_all" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/bn_about">
+
+        <Preference
+            android:key="@string/pfAbout"
+            android:summary="@string/bn_version1"
+            android:title="@string/bn_app_name" />
+
+        <PreferenceScreen
+            android:key="second_preferencescreen"
+            android:summary="@string/bn_help_sum"
+            android:title="@string/bn_help">
+
+            <PreferenceCategory android:title="@string/bn_help">
+                <Preference
+                    android:summary="@string/bn_image_cap_sum"
+                    android:title="@string/bn_image_cap" />
+
+                <Preference
+                    android:summary="@string/bn_video_rec_sum"
+                    android:title="@string/bn_video_rec" />
+
+                <Preference
+                    android:summary="@string/bn_widget_sum"
+                    android:title="@string/bn_widget" />
+
+                <Preference
+                    android:summary="@string/bn_help_hotkey"
+                    android:title="@string/bn_hot_key" />
+
+                <Preference
+                    android:summary="@string/bn_help_shake"
+                    android:title="@string/bn_shake" />
+
+            </PreferenceCategory>
+
+
+        </PreferenceScreen>
+
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/bn_support1">
+
+        <Preference
+            android:key="@string/pfRate"
+            android:title="@string/bn_rate" />
+
+        <Preference
+            android:key="@string/pfShare"
+            android:summary="@string/bn_share_sum"
+            android:title="@string/bn_share" />
+
+        <Preference
+            android:key="@string/pfFeedback"
+            android:title="@string/bn_feedback" />
+
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

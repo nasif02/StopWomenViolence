@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stop Women Violence</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="title_activity_more">MoreActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="font_ab">solaimanlipinormal.ttf</string>
+    <string name="font_bn">solaimanlipinormal.ttf</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_support">SupportActivity</string>
+    <string name="title_activity_right">RightActivity</string>
+    <string name="title_activity_supporter_detailed">SupporterDetailedActivity</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_activity_all_products">AllProductsActivity</string>
+    <string name="title_activity_new_product">NewProductActivity</string>
+    <string name="title_activity_edit_product">EditProductActivity</string>
+    <string name="title_activity_server">ServerActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_hot_key">HotKeyActivity</string>
+    <string name="title_activity_capture_image">CaptureImageActivity</string>
+    <string name="my_service_description">desc</string>
+    <string name="my_service_label">xxxservice</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_main_intro">MainIntroActivity</string>
+    <string name="tuto_dismiss">GOT IT</string>
+
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filenameEntries">
+        <item>Source + Version</item>
+        <item>Name + Version</item>
+        <item>Source</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="filenameValues" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="sortEntries">
+        <item>Name</item>
+        <item>Size</item>
+        <item>Installation date</item>
+        <item>Update date</item>
+    </string-array>
+    <string-array name="sortValues" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="themeColors" translatable="false">
+        <item>Blue</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="themeColorValues" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="shakeEntries" translatable="false">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Extreme</item>
+    </string-array>
+
+    <string-array name="shakeEntriesBn" translatable="false">
+        <item>সহজ</item>
+        <item>মধ্যম</item>
+        <item>কঠিন</item>
+        <item>এক্সট্রিম</item>
+    </string-array>
+
+
+
+    <string-array name="shakeValues" translatable="false">
+        <item>14</item>
+        <item>18</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+
+
+
+    <string-array name="hotKeyEntriesBn" translatable="false">
+        <item>বেসিক</item>
+        <item>এক্সট্রিম</item>
+    </string-array>
+
+    <string-array name="hotKeyValues" translatable="false">
+        <item>1</item>
+        <item>11</item>
+
+    </string-array>
+
+
+
+
+</resources>

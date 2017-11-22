@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- All Bangla app -->
+    
+    <string name="bn_got_it">বুঝতে পেরেছি</string>
+    <string name="bn_ok">ওকে</string>
+    <string name="bn_alert">জেনে রাখুন</string>
+    <string name="bn_on">চালু</string>
+    <string name="bn_off">বন্ধ</string>
+    <string name="bn_que_want">আপনি কি করতে চান?</string>
+    <string name="bn_settings">সেটিংস্‌</string>
+    <string name="bn_version_name">২.৩</string>
+    <string name="bn_version">ভার্সন</string>
+    <string name="bn_share">‎শেয়ার</string>
+    <string name="bn_tell_a_friend">বন্ধুকে বলুন</string>
+    <string name="bn_rate">রেট করুন</string>
+    <string name="bn_feedback">ফিডব্যাক</string>
+    <string name="bn_about_us">আমাদের সম্পর্কে</string>
+    <string name="bn_about">এবাউট</string>
+    <string name="bn_more_apps">ফ্রী অ্যাপ্লিকেশান</string>
+    <string name="bn_yes">হ্যাঁ</string>
+    <string name="bn_no">না</string>
+    <string name="bn_customaization">কাস্টোমাইজেশন</string>
+    <string name="bn_profile">আপনার প্রোফাইল</string>
+    <string name="bn_hot_key">হট কী</string>
+    <string name="bn_shake">ঝাঁকি</string>
+    <string name="bn_shake_mode">ঝাঁকি মোড</string>
+    <string name="bn_support">সাপোর্ট</string>
+    <string name="bn_support1">সাপোর্ট</string>
+
+    <string name="bn_easy">সহজ</string>
+    <string name="bn_medium">মধ্যম</string>
+    <string name="bn_hard">কঠিন</string>
+    <string name="bn_extreme">এক্সট্রিম</string>
+    <string name="bn_profile_sum">প্রোফাইল আপডেট করতে এখানে ক্লিক করুন</string>
+    <string name="bn_hot_key_sum_on">পাওয়ার বাটনটি ৩-৪ বার চাপুন </string>
+    <string name="bn_shake_sum_on">অ্যাপটি ওপেন করতে মোবাইলটি ঝাঁকি দিন</string>
+    <string name="bn_share_sum">অ্যাপটি বন্ধুদের সাথে শেয়ার করুন</string>
+    <string name="bn_app_name">স্টপ ওমেন ভায়োলেন্স</string>
+    <string name="bn_version1">ভার্শন ১.০</string>
+    <string name="bn_help_hotkey">তারাতারি অ্যাপটি ওপেন করতে হট কী সার্ভিসটি চালু করে পাওয়ার বাটনটি ৩-৪ বার চাপুন।</string>
+    <string name="bn_help_shake">ঝাঁকির মাদ্ধমে অ্যাপটি ওপেন করতে ঝাঁকি সার্ভিসটি চালু করে মোবাইলটি ঝাঁকি দিন।</string>
+
+
+    <string name="bn_gps_settings">লোকেশন সেটিংস্‌</string>
+    <string name="bn_gps_settings_msg">আপনার মোবাইলে লোকেশন সার্ভিসটি অন করা নেই।আপনি কি লোকেশন সার্ভিসটি অন করতে চান?</string>
+    <string name="bn_tuto_hotkey">ছবি তুলতে বাটনটি একবার চাপুন আর ভিডিও রেকর্ড করতে বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_tuto_helpline">আপনার প্রয়োজনে যেকোনো সময় কল দিন আমাদের হেল্পলাইনে।</string>
+    <string name="bn_tuto_more">বিস্তারিত জানতে এই বাটনটি চাপুন।</string>
+    <string name="bn_det_sotorko">আপনি কোন নির্যাতনের ঘটনার সম্মুখীন হলে সাথে সাথে অ্যাপটি অপেন করে “সতর্ক করুন” বাটন টি চাপলে তা ভিডিও অথবা স্থির চিত্র ধারণ করে সরাসরি আমাদের সার্ভারে তথ্য পাঠিয়ে দিবে। একই সাথে দিন, সময় এবং আপনার অবস্থান এর তথ্য আমাদের কাছে চলে আসবে। এতে করে পরবর্তীতে অপরাধীকে প্রমাণসহ সনাক্ত করা যাবে এবং উপযুক্ত ব্যবস্থা নেওয়া যাবে । ছবি তুলতে বাটনটি একবার চাপুন আর ভিডিও রেকর্ড করতে বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_det_widget">ফোনের হোমপেজে আমাদের অ্যাপের উইজেটটি ব্যবহার করে অনেক দ্রুততার সাথে ছবি তুলতে বা ভিডিও রেকর্ড করতে পারবেন। আপনি আপনার ফোনের উইজেট অপশন থেকে উইজেট টি অ্যাড করে নিতে পারেন।</string>
+    <string name="bn_det_hotkey">আপনার ফোনের পাওয়ার বাটন একসাথে পরপর ৩-৪ বার চেপে অ্যাপটি চালু করতে পারবেন। এর জন্য অবশ্যই হট কী সার্ভিসটি চালু করা থাকতে হবে।সেটিংস্‌ অপশন এ গিয়ে আপনি সার্ভিসটি চালু/বন্ধ করতে পারবেন।</string>
+    <string name="bn_det_shake">ফোনকে ঝাঁকি দেয়ার মাধ্যমেও অ্যাপে যাওয়া যাবে। এর জন্য অবশ্যই সার্ভিসটি চালু করা থাকতে হবে।সেটিংস্‌ অপশন এ গিয়ে আপনি সার্ভিসটি চালু/বন্ধ করতে পারবেন। ঝাঁকির তীব্রতা নির্ধারণের কয়েকটি মোড আছে। সহজ, মধ্যম, কঠিন ও এক্সট্রিম। আপনার পছন্দ অনুযায়ী সেটিংস্‌ অপশন থেকে যেকোনো একটি বেছে নিন।</string>
+    <string name="bn_det_"></string>
+
+
+
+
+
+    <!-- stop women violence -->
+    <string name="bn_sarbik">নাম সমূহ</string>
+    <string name="bn_how_to_use">অ্যাপটি কিভাবে ব্যাবহার করব?</string>
+    <string name="bn_which_my_right">আমার কি অধিকার?</string>
+    <string name="bn_where_to_get_help">কাদের কাছ থেকে সাহায্য নিব?</string>
+    <string name="bn_call_10921">কল হেল্পলাইন</string>
+    <string name="bn_know_more">আরও জানুন</string>
+    <string name="bn_who_will_help">সাহায্য করবে যারা</string>
+    <string name="bn_we_can">আমরাই পারি</string>
+    <string name="bn_do_alert">সতর্ক\nকরুন</string>
+    <string name="bn_supervisor">সার্বিক তত্ত্বাবধানে</string>
+    <string name="bn_"></string>
+
+
+
+    <!-- bangla litereture app -->
+    <string name="bn_poem">কবিতা</string>
+    <string name="bn_rhyme">ছড়া</string>
+    <string name="bn_app_store">অ্যাপ স্টোর</string>
+    
+    <string name="bn_liric">গানের কথা</string>
+    <string name="bn_quote">বাণী</string>
+    <string name="bn_life_story">জীবনী</string>
+    <string name="bn_literature">সাহিত্যকর্ম</string>
+    <string name="bn_archive_nazrul_giti">নজরুলগীতি সংকলন</string>
+    
+    <!-- bangla islamic app -->
+    <string name="bn_allah">আল্লাহ</string>
+    <string name="bn_islam">ইসলাম</string>
+    <string name="bn_islamic">ইসলামিক</string>
+
+
+    <!-- bangla quiz app -->
+    <string name="bn_quiz">কুইজ</string>
+    <string name="bn_score">স্কোর</string>
+    <string name="bn_highes_score">সর্বোচ্চ স্কোর</string>
+    <string name="bn_play">খেল</string>
+    <string name="bn_submit">সাবমিট</string>
+    <string name="bn_reset_score_warning">আপনি কি সত্যিই স্কোর গুলো মুছে ফেলতে চান?</string>
+    <string name="bn_reset_score">স্কোর মুছুন</string>
+    <string name="bn_start">শুরু করুন</string>
+    <string name="bn_cancell">বাদ দিন</string>
+    <string name="bn_que_no">প্রশ্ন নং</string>
+    <string name="bn_quit_quiz_warning">আপনি কি সত্যিই কুইজ থেকে বের হতে চান?</string>
+    <string name="bn_quit_quiz">কুইজ থেকে বের হন</string>
+
+    <!-- bangla 99names app -->
+    <string name="bn_names">নাম সমূহ</string>
+    <string name="bn_name_meaning">নামটির অর্থ নিচের কোনটি ?</string>
+
+
+
+
+    <!-- teammate -->
+    <string name="how_to_1">আপনি বা অন্য কেউ কখনো কোন বিপদে পরে থাকলে সাথে সাথে অ্যাপটি ওপেন করে  "সতর্ক করুন" বাটনটি চাপলে অ্যাপটি থেকে ক্যামেরা অন হবে। তখন আপনি ঘত্নার স্থির বা ভিডিও চিত্র ধারণ করে সরাসরি আমাদের সার্ভারে তথ্য পাঁঠাতে পারবেন। এর সাথে দিন, সময় এবং আপনার অবস্থান আমাদের কাছে চলে আসবে।। এতে করে অপরাধী যদি জোরপূর্বক আপনার ডিভাইসটি হতে তথ্য মুছে দেয় তবুও ঘটনার প্রমাণ আমাদের সার্ভারে সুরক্ষিত থাকবে, যা ব্যাবহার করে অপরাধীকে সনাক্ত করে উপযুক্ত শাস্তি প্রদান করা যাবে। আপনি চাইলে ভয়েস এর মাধ্যমেও তথ্য পাঁঠাতে পারেন।</string>
+    <string name="how_to_2">আমরা ভবিষ্যতে আপনাদেরকে এই অ্যাপটির মাধ্যমে ঘটনা ঘটাকালীন সময়ে আপনার পাঠানো তথ্য অনু্যায়ী আমাদের নিরাপত্তা বাহিনী চলে যাবে আপনার কাছে।</string>
+    <string name="how_to_3">অ্যাপটিতে আরও রয়েছে নারী অধীকার বিষয়ক তথ্য, বিভিন্ন নারী সেবামূলক প্রতিষ্ঠানের তথ্য ও যোগাযোগের ঠিকানা এবং বাংলাদেশের হেল্প লাইন হত-কী।</string>
+
+    <string name="we_can_details">উই ক্যান এ্যলায়েন্স, বাংলাদেশ একটি দেশব্যাপী প্রচারণা যার লক্ষ্য নারীর বিরুদ্ধে পারিবারিক সহিংসতার বিরুদ্ধে ব্যক্তিগত দৃষ্টিভঙ্গি পরিবর্তন। উই ক্যান এ্যলায়েন্স, বাংলাদেশ সমাজের পুরুষ ও নারীদের ঐক্যবদ্ধ করে একটি সংগঠিত গণআন্দোলনে পরিণত করতে আকুলভাবে কাজ। উই ক্যান ক্যাম্পেইন এর উদ্দেশ্য নারীর বিরুদ্ধে পারিবারিক সহিংসতার যে নীরবতা, অস্বীকার, লজ্জা ও কলঙ্কের বিষয়টি ঘুচিয়ে গণসম্মুখে তা নিয়ে আসা এবং এ বিষয়ে মানুষের চেতনা জাগ্রত করা। বর্তমানে এ ক্যাম্পেইনটি ৫৫ টি জেলার ৪০০ ইউনিয়ন পরিষদে চলে। ক্যাম্পাইনটি দক্ষিণ এশিয়ান ক্যাম্পেইনের অংশ হিসেবে চালু হয়েছিল ২০০৪ সালে যার উদ্দেশ্য আমাদের  সমাজে প্রচলিত লিঙ্গ বৈষম্য ও হিংস্রতার বিরুদ্ধে রুখে দাঁড়ান এবং তা পরিবর্তন করা।</string>
+    <string name="we_can_contact">88029130265</string>
+    <string name="we_can_address">বাড়ি ৬/৪ এ (২য় তলা), স্যার সৈয়দ রোড, মোহাম্মদপুর, ঢাকা – ১২০৭</string>
+    <string name="we_can_web">https://www.wecan-bd.org</string>
+    <string name="usaid_details">বাংলাদেশী নারীরা স্বাস্থ্য সেবা, অর্থনৈতিক ও রাজনৈতিক অংশগ্রহণ সহ তাদের জীবন প্রায় প্রতি ক্ষেত্রে বাধা এবং অসুবিধা সম্মুখীন হয়ে থাকে। বাংলাদেশে সব ইউএসএআইডি প্রোগ্রামের কেন্দ্রবিন্দুতে রয়েছে নারীর ক্ষমতায়ন, যেখানে নারীদের অংশগ্রহণ বৃদ্ধি, লিঙ্গ বৈষম্য কমাতে, এবং সমাজের সর্বত্র নারী ও মেয়েশিশুদের ক্ষমতায়ন ইতিবাচক প্রভাব সম্পর্কে সচেতনতা বাড়াতে চেষ্টা করা হচ্ছে।ইউএসএআইড পারিবারিক স্বাস্থ্য বিষয়ে যৌথ সিদ্ধান্ত, সুস্থ সময়জ্ঞানে জন্ম ব্যবধান নিতে পুরুষ এবং মহিলাদের মধ্যে সংলাপের ব্যবস্থা করে। এছাড়াও গর্ভবতী নারীদের স্বামীদের স্বাস্থ্যকর গর্ভধারণ, তাদের স্ত্রীদের সমর্থনের উপর পরামর্শ প্রদান করে এবং নারীদের ও মেয়েদের শিশুদের জন্যে শিক্ষা বিষয়ে প্রচার করার জন্য গণমাধ্যমের সদ্ব্যবহার করে.লিঙ্গভিত্তিক সহিংসতা মোকাবেলার জন্য ইউএসএআইডির ২০১০ সাল থেকে গার্হস্থ্য সহিংসতা প্রতিরোধ ও সুরক্ষা আইন বাস্তবায়ন ও মানবাধিকার রক্ষাকর্মীদের প্রশিক্ষণের জন্য বাংলাদেশ সরকারের সঙ্গে কাজ করছে - তাদের অর্ধেক নারী ডোমেস্টিক ভায়োলেন্স আইনসহ বিদ্যমান মানবাধিকার আইন জোরদার করায় নিয়োজিত। এছাড়াও তৃণমূল পর্যায়ে সামাজিক সুরক্ষা নিশ্চিত করতে এবং বিভিন্ন সম্প্রদায়ের মধ্যে পারিবারিক সহিংসতা নিরীক্ষণ করতে সমাজকর্মী, চিকিৎসক, ধর্মীয় নেতা, শিক্ষক ও ছাত্রদের নিয়ে গঠিত দলগুলোকে পর্যবেক্ষণ এবং ক্ষতিগ্রস্তদের আইনের সহায়তায় গার্হস্থ্য বিরোধ নিষ্পত্তির এবং আশ্রয় প্রদান করে থাকে।</string>
+    <string name="usaid_contact">880255662000</string>
+    <string name="usaid_address">ইউ.এস. এম্বাসি, মাদানি এভিনিউ, বারিধারা, ঢাকা</string>
+    <string name="usaid_web">https://www.usaid.gov/bangladesh</string>
+
+    <string name="care_bangladesh_details">প্রান্তিক সীমার মানুষদের কথা প্রচার করে যাতে তা সর্বস্তরের জনমত, উন্নয়ন প্রচেষ্টা ও নীতিতে প্রভাব ফেলে। তৃণমূল পর্যায়ে এবং বিশ্বব্যাপী সুশীল সমাজ, সরকার, এবং বেসরকারি খাতের সাথে অভিজ্ঞতা ও জ্ঞান থেকেই সেটা সম্ভব হয়।</string>
+    <string name="care_bangladesh_contact">88029112315</string>
+    <string name="care_bangladesh_address">প্রগতী ইন্সুরেন্স ভবন (৯ম - ১৩ত্ম তলা), ২০-২১, কাওরান বাজার, ঢাকা - ১২১৫</string>
+    <string name="care_bangladesh_web">http://www.carebangladesh.org/</string>
+
+    <string name="brac_details">ব্র্যাক কয়েক দশক ধরে সমাজ হতে লিংগবৈষম্যদূরীকরণে কাজ করে যাচ্ছে। ব্র্যাক বিভিন্ন প্রোগ্রামের মধ্য দিয়ে ছেলে-মেয়েদের সমান অধীকার ও শিক্ষা নিশ্চিতকরণে কাজ করে থাকে। এছাড়াও লিঙ্গ সমঅধীকার ও সহিংসতা রোধকে উৎসাহিত করে ব্র্যাক।</string>
+    <string name="brac_contact">88029881265</string>
+    <string name="brac_address">ব্র্যাক সেন্টার, ৭৫ মহাখালী, ঢাকা - ১২১২</string>
+    <string name="brac_web">http://www.brac.net/gender?view=page</string>
+
+
+    <string name="rights_1_0">আমার কী অধীকার?</string>
+    <string name="rights_1_1">আমি কি কোনো রকম চিন্তা ভাবনা ছাড়া সমাজের পুরানো বিশ্বাসগুলো পলন করব, নাকি নিজেকে সমাজ বদলের একজন অগ্রনী ব্যক্তিত্ব হিসেবে নিজেকে গড়ে তুলবো?</string>
+    <string name="rights_1_2">আমি নিজে যদি মনে করি যে, এই ধরনের আচরণ, দৃষ্টিভঙ্গী অন্যায় তাহলে এর প্রতিকারের জন্য কাজ করতে হবে। কোন প্রকার অন্যায়, বৈষম্য বা নির্যাতন আমার কাছে গ্রহনযোগ্য বলে বিবেচিত হবে না। অন্যায় ও অন্যায্যতার বিরুদ্ধে যতটুকু করনীয় তা সাধ্যমতো করতে উদ্যোগ গ্রহণ করতে হবে। সর্বপ্রথম নিজের দৃষ্টিভঙ্গী পরিবর্তন করতে হবে।</string>
+
+    <string name="rights_2_0">আমার কী করণীয়?</string>
+    <string name="rights_2_1">১. নারীর প্রতি নির্যাতনকে \'স্বাভাবিক\' বলে মেনে নেওয়া সামাজিক এই মনোভাব বা নীরবতাকে চ্যালেঞ্জ জানানো, পরিবর্তন করা, অন্যের সাথে কথা বলা;</string>
+    <string name="rights_2_2">২. পরিবার, সমাজ ও রাষ্ট্রের প্রত্যেকটি অংশকে নারীর প্রতি নির্যাতন প্রতিরোধে পদক্ষেপ গ্রহন করার জন্য সচেতন করা।</string>
+    <string name="rights_2_3">৩. নারী-পুরুষ সাম্য প্রতিষ্ঠার নীতি গ্রহনে রাষ্ট্রের ওপর গণভিত্তিক চাপ সৃষ্টি এবং নারীকে নির্যাতনের পথ থেকে মুক্তির মানসিক সহযোগিতা করা।</string>
+
+
+    <string name="addres">Address: U.S. Embassy, Madani Avenue, Baridhara, Dhaka, Bangladesh</string>
+    <string name="address">ঠিকানা</string>
+    <string name="call">কল করুন</string>
+    <string name="website">ওয়েবসাইটে যান</string>
+    <string name="item1">অবস্থান পাঠান</string>
+    <string name="item2">ছবি পাঠান</string>
+    <string name="item3">ভয়েস রেকর্ পাঠান</string>
+    <string name="item4">ভিডিও পাঠান</string>
+
+
+    <string name="bn_info_title">আপনার প্রোফাইল</string>
+    <string name="bn_info">অনুগ্রহ করে আপনার নাম এবং ফোন নম্বর দিন, যাতে করে বিপদ এর সময় আমরা আপনাকে সাহায্য করতে পারি।</string>
+    <string name="bn_know_more_jana">অ্যাপটি সম্বন্ধে বিস্তারিত জানার জন্য ‘আরও জানুন’ বাটনটি চাপুন।</string>
+
+    <string name="bn_instruction">ব্যবহারবিধি</string>
+    <string name="bn_right">অধিকার</string>
+    <string name="bn_reset_all_sum">অ্যাপটি প্রাথমিক অবস্থায় ফিরিয়ে নিতে এখানে ক্লিক করুন</string>
+    <string name="bn_reset_all">রিসেট</string>
+    <string name="bn_help">হেল্প</string>
+    <string name="bn_help_sum">অ্যাপের বিভিন্ন অপশনগুলো জানুন</string>
+    <string name="bn_image_cap_sum">ছবি তুলতে ‘সতর্ক করুন’ বাটনটি একবার চাপুন</string>
+    <string name="bn_video_rec_sum">ভিডিও রেকর্ড করতে ‘সতর্ক করুন’ বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_widget_sum">ফোনের হোমপেজে আমাদের অ্যাপের উইজেটটি ব্যবহার করে অনেক দ্রুততার সাথে ছবি তুলতে বা ভিডিও রেকর্ড করতে পারবেন। আপনি আপনার ফোনের উইজেট অপশন থেকে উইজেট টি অ্যাড করে নিতে পারেন।</string>
+    <string name="bn_widget">হোমস্ক্রিন উইজেট </string>
+    <string name="bn_image_cap">ছবি তোলা</string>
+    <string name="bn_video_rec">ভিডিও রেকর্ডিং</string>
+    <string name="bn_hot_key_sensivity">হট কী সেন্সিভিটি</string>
+    <string name="bn_basic">বেসিক</string>
+
+
+    <!--
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+
+
+    -->
+
+</resources>

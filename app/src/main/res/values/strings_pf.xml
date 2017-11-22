@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- settings-->
+    <string name="pfIsSound">pfIsSound</string>
+    <string name="pfIsNightMode">pfIsNightMode</string>
+    <string name="pfTheme">pfTheme</string>
+    <string name="pfTextColor">pfTextColor</string>
+
+    <string name="pfAbout">pfAbout</string>
+    <string name="pfDeveloper">pfDeveloper</string>
+
+    <string name="pfRate">pfRate</string>
+    <string name="pfShare">pfShare</string>
+    <string name="pfFeedback">pfFeedback</string>
+
+    <string name="pfDevSettings">pfDevSettings</string>
+    <string name="pfCatAdvanceSettings">pfCatAdvanceSettings</string>
+
+
+    <!-- settings dev-->
+    <string name="pfIsPro">pfIsPro</string>
+    <string name="pfIsAdRequestReal">pfIsAdRequestReal</string>
+    <string name="pfClearDSP">pfClearDSP</string>
+    <string name="pfClearMSP">pfClearMSP</string>
+    <string name="pfResetAll">pfResetAll</string>
+
+    <!-- stop women violence-->
+    <string name="pfProfile">pfProfile</string>
+    <string name="pfHotKey">pfHotKey</string>
+    <string name="pfShake">pfShake</string>
+    <string name="pfShakeType">pfShakeType</string>
+    <string name="pfHelp">pfHelp</string>
+    <string name="pfHotKeySensivity">pfHotKeySensivity</string>
+
+
+</resources>

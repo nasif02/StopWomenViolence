@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe9eb"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_main" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="40dp">
+
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="আপনার নাম"
+            android:textColor="#F44336"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etName"
+            android:hint="নাম লিখুন"
+            android:paddingLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_input" />
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:text="আপনার ফোন নাম্বার"
+            android:textColor="#F44336"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etNo"
+            android:paddingLeft="10dp"
+            android:inputType="phone"
+            android:layout_width="match_parent"
+            android:hint="ফোন নম্বর দিন"
+            android:layout_height="50dp"
+            android:layout_marginBottom="25dp"
+            android:background="@drawable/custom_input" />
+
+        <Button
+            android:id="@+id/btSave"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/custom_button"
+            android:text="সেভ করুন"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
