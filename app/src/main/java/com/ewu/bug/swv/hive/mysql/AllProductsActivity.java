@@ -46,6 +46,7 @@ public class AllProductsActivity extends ListActivity {
 
     // products JSONArray
     JSONArray products = null;
+    //hello
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
