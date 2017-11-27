@@ -12,6 +12,7 @@ public class MainScreenActivity extends AppCompatActivity {
 
     Button btnViewProducts;
     Button btnNewProduct;
+    Button btnLab;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -21,6 +22,7 @@ public class MainScreenActivity extends AppCompatActivity {
         // Buttons
         btnViewProducts = (Button) findViewById(R.id.btnViewProducts);
         btnNewProduct = (Button) findViewById(R.id.btnCreateProduct);
+        btnLab = (Button) findViewById(R.id.btnLab);
 
         // view products click event
         btnViewProducts.setOnClickListener(new View.OnClickListener() {
@@ -34,6 +36,7 @@ public class MainScreenActivity extends AppCompatActivity {
             }
         });
 
+
         // view products click event
         btnNewProduct.setOnClickListener(new View.OnClickListener() {
 
@@ -45,5 +48,16 @@ public class MainScreenActivity extends AppCompatActivity {
 
             }
         });
+
+
+        btnLab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+
+
+            }
+        });
+
     }
 }

@@ -47,7 +47,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class UploadActivity2 extends Activity {
+public class UploadActivity extends Activity {
 
     //this is
     // LogCat tag
@@ -183,10 +183,10 @@ public class UploadActivity2 extends Activity {
 //                parameters.put("lastname", "last name");
 //                parameters.put("age", "10");
 
-                parameters.put("code", code);
-                parameters.put("lat", "" + gpsLoc.getLatitude());
+                parameters.put("code", code);   //filename
+                parameters.put("xlat", "" + gpsLoc.getLatitude());
                 parameters.put("xlong", "" + gpsLoc.getLongitude());
-                parameters.put("name",name );
+                parameters.put("name",name );       //username
                 parameters.put("contact",contact );
 
                 return parameters;
@@ -212,7 +212,7 @@ public class UploadActivity2 extends Activity {
 
     private GPSLoc getLocation() {
 
-        gps = new GPSTracker(UploadActivity2.this);
+        gps = new GPSTracker(UploadActivity.this);
         GPSLoc gpsLoc = new GPSLoc(0.0, 0.0);
 
         // Check if GPS enabled
@@ -339,6 +339,7 @@ public class UploadActivity2 extends Activity {
                 if (statusCode == 200) {
                     // Server response
                     responseString = EntityUtils.toString(r_entity);
+                    Log.d(TAG, "uploadFile() responseString: " + responseString);
                 } else {
                     responseString = "Error occurred! Http Status Code: "
                             + statusCode;
@@ -356,7 +357,7 @@ public class UploadActivity2 extends Activity {
 
         @Override
         protected void onPostExecute(String result) {
-            Log.e(TAG, "Response from server: " + result);
+            Log.d(TAG, "Response from server: " + result);
 
             // showing the server response in an alert dialog
             showAlert(result);

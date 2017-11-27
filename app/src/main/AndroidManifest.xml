@@ -51,7 +51,7 @@
         </provider>
 
         <activity
-            android:name=".UploadActivity2"
+            android:name=".UploadActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name=".MoreActivity"
