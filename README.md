@@ -49,7 +49,7 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 ### Screen Shot ###
 
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="myfiles/ss/ss(1).png" width="100" height="100">
 <img src=[ss1] width="100" height="100">
 
 
