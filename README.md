@@ -19,7 +19,7 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 ### Task List - To Do ###
 
-* Fix Bug
+* Fix Bug and update
 
 
 
