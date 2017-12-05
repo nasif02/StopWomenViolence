@@ -39,22 +39,26 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 
 
-### Graphics ###
+## Graphics ##
+
+
+### Logo ###
 ![App Logo][logo]
 
 [logo]: app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "xCode Logo"
 
-### Screen Shot###
+### Screen Shot ###
 
 ![Screen Shot][ss1]
 ![Screen Shot][ss2]
-![Screen Shot][ss2]
+![Screen Shot][ss3]
 ![Screen Shot][ss4]
 ![Screen Shot][ss5]
 ![Screen Shot][ss6]
 ![Screen Shot][ss7]
 ![Screen Shot][ss8]
 ![Screen Shot][ss9]
+![Screen Shot][ss10]
 ![Screen Shot][ss11]
 ![Screen Shot][ss12]
 
@@ -64,13 +68,13 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 
 
-[ss1]: myfiles/ss/ss(1).png "Screen Shot"
+[ss1]: myfiles/ss/ss(1).png =250x "Screen Shot"
 [ss2]: myfiles/ss/ss(2).png "Screen Shot"
 [ss3]: myfiles/ss/ss(3).png "Screen Shot"
 [ss4]: myfiles/ss/ss(4).png "Screen Shot"
 [ss5]: myfiles/ss/ss(5).png "Screen Shot"
 [ss6]: myfiles/ss/ss(6).png "Screen Shot"
-[ss6]: myfiles/ss/ss(7).png "Screen Shot"
+[ss7]: myfiles/ss/ss(7).png "Screen Shot"
 [ss8]: myfiles/ss/ss(8).png "Screen Shot"
 [ss9]: myfiles/ss/ss(9).png "Screen Shot"
 [ss10]: myfiles/ss/ss(10).png "Screen Shot"
