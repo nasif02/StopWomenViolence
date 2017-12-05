@@ -49,13 +49,11 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 ### Screen Shot ###
 
-![Screen Shot][ss1] ![Screen Shot][ss2] ![Screen Shot][ss3]
-![Screen Shot][ss4] ![Screen Shot][ss5] ![Screen Shot][ss6]
-![Screen Shot][ss7]
-![Screen Shot][ss8]
-![Screen Shot][ss9]
-![Screen Shot][ss10]
-![Screen Shot][ss11]
+<img src="https://your-image-url.type" width="100" height="100">
+<img src=[ss1] width="100" height="100">
+
+
+
 ![Screen Shot][ss12]
 
 
