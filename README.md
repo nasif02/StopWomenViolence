@@ -45,7 +45,9 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 ### Screen Shot ###
 
-<img src="myfiles/ss/ss(1).png" height="300"> <img src="myfiles/ss/ss(2).png" height="300"> <img src="myfiles/ss/ss(3).png" height="300"> <img src="myfiles/ss/ss(4).png" height="300">
+<img src="myfiles/ss/ss(1).png" height="350"> <img src="myfiles/ss/ss(2).png" height="350"> <img src="myfiles/ss/ss(3).png" height="350"> <img src="myfiles/ss/ss(4).png" height="350">
+<img src="myfiles/ss/ss(5).png" height="350"> <img src="myfiles/ss/ss(6).png" height="350"> <img src="myfiles/ss/ss(7).png" height="350"> <img src="myfiles/ss/ss(8).png" height="350">
+<img src="myfiles/ss/ss(9).png" height="350"> <img src="myfiles/ss/ss(10).png" height="350"> <img src="myfiles/ss/ss(11).png" height="350"> <img src="myfiles/ss/ss(12).png" height="350">
 
 
 
