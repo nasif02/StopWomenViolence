@@ -49,12 +49,8 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 ### Screen Shot ###
 
-![Screen Shot][ss1]
-![Screen Shot][ss2]
-![Screen Shot][ss3]
-![Screen Shot][ss4]
-![Screen Shot][ss5]
-![Screen Shot][ss6]
+![Screen Shot][ss1] ![Screen Shot][ss2] ![Screen Shot][ss3]
+![Screen Shot][ss4] ![Screen Shot][ss5] ![Screen Shot][ss6]
 ![Screen Shot][ss7]
 ![Screen Shot][ss8]
 ![Screen Shot][ss9]
@@ -68,7 +64,7 @@ This project was developed for a mobile app contest organized by 'WE CAN' at Daf
 
 
 
-[ss1]: myfiles/ss/ss(1).png =250x "Screen Shot"
+[ss1]: myfiles/ss/ss(1).png "Screen Shot"
 [ss2]: myfiles/ss/ss(2).png "Screen Shot"
 [ss3]: myfiles/ss/ss(3).png "Screen Shot"
 [ss4]: myfiles/ss/ss(4).png "Screen Shot"
