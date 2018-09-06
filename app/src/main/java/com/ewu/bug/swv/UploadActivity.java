@@ -81,11 +81,11 @@ public class UploadActivity extends Activity {
 
         //EasyPref ep = new EasyPref(this);
 
-        txtPercentage = (TextView) findViewById(R.id.txtPercentage);
-        btnUpload = (Button) findViewById(R.id.btnUpload);
-        progressBar = (ProgressBar) findViewById(R.id.progressBar);
-        imgPreview = (ImageView) findViewById(R.id.imgPreview);
-        vidPreview = (VideoView) findViewById(R.id.videoPreview);
+        txtPercentage =  findViewById(R.id.txtPercentage);
+        btnUpload = findViewById(R.id.btnUpload);
+        progressBar = findViewById(R.id.progressBar);
+        imgPreview =  findViewById(R.id.imgPreview);
+        vidPreview =  findViewById(R.id.videoPreview);
 
         //name = ep.getString("name","none");
         //contact = ep.getString("no","none");
@@ -199,13 +199,16 @@ public class UploadActivity extends Activity {
 
     private String getCodeFromFilePath(String filePath) {
 
+        Log.d(TAG, "getCodeFromFilePath: filePath: " + filePath);
+
+
         String code=null;
 
         String[] s = filePath.split("/");
 
         code=s[s.length-1];
 
-        Log.d("xxx",code);
+        Log.d(TAG, "getCodeFromFilePath: code: " + code);
         return code;
 
     }
@@ -388,9 +391,6 @@ public class UploadActivity extends Activity {
         alert.show();
     }
 
-    private void dbg(String s) {
-        Log.d("xxx", s);
-    }
 
     private void pToast(String s) {
         Toast.makeText(getApplicationContext(), s, Toast.LENGTH_SHORT).show();

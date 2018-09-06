@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private static final String SHOWCASE_ID = "showcase_id";
 
-    String flag = "xxx";
+    //String flag = "xxx";
 
     private final int PRC_READ_CONTACTS = 11;
     private final int PRC_ACCESS_FINE_LOCATION = 22;
@@ -111,18 +111,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //
 //        pToast(s1 + " " + s2);
 
-        try {
-            flag = getIntent().getStringExtra("flag");
-            //pToast(flag);
-            Log.d(TAG, flag + " get successfully");
-        } catch (Exception e) {
-            e.printStackTrace();
-            Log.d(TAG, flag + "getting error");
-        }
-
-        if (flag == null) {
-            flag = "xxx";
-        }
+//        try {
+//            flag = getIntent().getStringExtra("flag");
+//            //pToast(flag);
+//            Log.d(TAG, flag + " get successfully");
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//            Log.d(TAG, flag + "getting error");
+//        }
+//
+//        if (flag == null) {
+//            flag = "xxx";
+//        }
 
 
 //        permissionManager=new PermissionManager() {};
@@ -153,13 +153,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btMore.setOnClickListener(this);
 
 
-        if (flag.equals("image")) {
-            captureImage();
-            return;
-        } else if (flag.equals("video")) {
-            captureVideo();
-            return;
-        }
+//        if (flag.equals("image")) {
+//            captureImage();
+//            return;
+//        } else if (flag.equals("video")) {
+//            captureVideo();
+//            return;
+//        }
 
         presentShowcaseSequence();
 
@@ -494,7 +494,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             PrefUtils.putBoolean(PrefUtils.IS_FIRST_OPEN, false);
 
             String name = MixTools.getOwnerName(getApplication());
-            String number = NetworkTools.getSimNumber();
+            //String number = NetworkTools.getSimNumber();
+            String number=null;
 
             if (name != null) {
                 PrefUtils.putString(PrefUtils.USER_NAME, name);

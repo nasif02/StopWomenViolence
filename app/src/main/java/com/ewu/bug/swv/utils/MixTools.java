@@ -83,7 +83,10 @@ public class MixTools {
             Log.d("xxx","No username found");
         } finally {
 
-            c.close();
+            if(c!=null){
+                c.close();
+            }
+
 
         }
 
